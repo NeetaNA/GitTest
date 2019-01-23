@@ -123,8 +123,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index2.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GitAssignment/lib/index2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GitAssignment/HTML/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="LoginPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -173,6 +176,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index2.html" />
         <item itemvalue="Python.LoginPageTests" />
         <item itemvalue="Python.LoginPage" />
