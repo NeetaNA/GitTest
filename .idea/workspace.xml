@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/lib/LoginPage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -65,35 +65,11 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="GitAssignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitAssignment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GitAssignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitAssignment" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GitAssignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitAssignment" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GitAssignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitAssignment" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -111,7 +87,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LoginPageTests">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GitAssignment/lib/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="LoginPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GitAssignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Python.LoginPageTests" />
         <item itemvalue="Python.LoginPage" />
       </list>
@@ -178,7 +158,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181000" />
+    <option name="totallyTimeSpent" value="188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
@@ -213,7 +193,7 @@
     <entry file="file://$PROJECT_DIR$/lib/LoginPage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
